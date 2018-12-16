@@ -117,7 +117,7 @@
 						<image>192.168.1.106:5000/java:latest</image>
 					</from>
 					<to>
-						<image>192.168.1.106:5000/eureka-server:latest</image>
+						<image>192.168.1.106:5000/admin:latest</image>
 					</to>
 					<allowInsecureRegistries>true</allowInsecureRegistries>
 				</configuration>
